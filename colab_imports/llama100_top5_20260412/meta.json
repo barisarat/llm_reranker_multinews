@@ -1,0 +1,12 @@
+{
+  "run_name": "llama100_top5_20260412_234140",
+  "created_utc": "2026-04-12 23:41:48",
+  "jsonl_path": "/content/prep_rows.jsonl",
+  "n_loaded_queries": 125,
+  "n_run": 125,
+  "target_rel": 2,
+  "return_top_n": 5,
+  "max_new_tokens": 256,
+  "retries": 2,
+  "model_name": "meta-llama/Llama-3.1-8B-Instruct"
+}

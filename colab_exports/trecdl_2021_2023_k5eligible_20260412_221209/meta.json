@@ -1,0 +1,27 @@
+{
+  "export_name": "trecdl_2021_2023_k5eligible_20260412_221209",
+  "created_utc": "2026-04-12 22:12:09",
+  "years_included": [
+    2021,
+    2022,
+    2023
+  ],
+  "eligibility_rule": "candidate_count == 100 and n_rel_ge_2 >= 5",
+  "num_queries": 125,
+  "fields_per_row": [
+    "trec_year",
+    "query_id",
+    "query",
+    "labels_100",
+    "highly_rel_positions",
+    "n_candidates",
+    "n_highly_relevant",
+    "candidates_100"
+  ],
+  "candidate_fields": [
+    "doc_id",
+    "score",
+    "passage_text",
+    "source_doc_id"
+  ]
+}

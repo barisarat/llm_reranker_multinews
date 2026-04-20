@@ -1,0 +1,9 @@
+{
+  "run_name": "cross_encoder_full100_20260412_235826",
+  "created_utc": "2026-04-12 23:58:28",
+  "jsonl_path": "/content/prep_rows.jsonl",
+  "n_loaded_queries": 125,
+  "n_run": 125,
+  "target_rel": 2,
+  "model_name": "cross-encoder/ms-marco-MiniLM-L6-v2"
+}

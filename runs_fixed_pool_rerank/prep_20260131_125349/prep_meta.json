@@ -1,0 +1,10 @@
+{
+  "dataset_id": "Awesome075/multi_news_parquet",
+  "n_target": null,
+  "min_sources": 8,
+  "doc_min_chars": 80,
+  "doc_trunc_chars": 2000,
+  "query_max_chars": 400,
+  "global_seed": 1337,
+  "n_examples": 345
+}

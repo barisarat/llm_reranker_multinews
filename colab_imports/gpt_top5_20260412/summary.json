@@ -1,0 +1,18 @@
+{
+  "n_queries": 125,
+  "success_rate": 1.0,
+  "mean_prompt_tokens": 6977.512,
+  "mean_completion_tokens": 18.0,
+  "mean_total_tokens": 6995.512,
+  "mean_elapsed_sec": 1.056048770904541,
+  "metrics": {
+    "p_at_3_rel2": 0.7386666666666667,
+    "r_at_3_rel2": 0.2001511223152087,
+    "hit_at_3_rel2": 0.936,
+    "ndcg_at_3": 0.6957563925454853,
+    "p_at_5_rel2": 0.6847999999999999,
+    "r_at_5_rel2": 0.30391423325418465,
+    "hit_at_5_rel2": 0.96,
+    "ndcg_at_5": 0.6780836194830043
+  }
+}
