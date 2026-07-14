@@ -2,7 +2,7 @@
 
 > **Diagnosing LLM Reranker Behavior Under Fixed Evidence Pools**
 > Baris Arat and Emre Sefer - SIGIR '26, Melbourne, Australia
-> DOI: (to be added after publication)
+> DOI: [10.1145/3805712.3809852](https://doi.org/10.1145/3805712.3809852)
 
 ---
 
